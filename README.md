@@ -1,3 +1,4 @@
+<p align="left"> <img src="" alt="ricardo-gabriel-rouco" /> </p>
 <h1 align="center">Hi 👋, I'm Gabriel Rouco</h1>
 <h3 align="center">An super-active fullstack developer from Argentina</h3>
 
