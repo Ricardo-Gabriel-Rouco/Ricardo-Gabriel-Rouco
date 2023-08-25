@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my digital portfolio](https://github.com/Ricardo-Gabriel-Rouco/Portfolio)
 
-- 🌱 I’m currently learning **Chakra Ui | Vite | Deno | Raspberry Pi**
+- 🌱 I’m currently learning **Java | Spring Boot**
 
 - 👨‍💻 All of my projects are available at [www.grouco.com.ar](www.grouco.com.ar)
 
